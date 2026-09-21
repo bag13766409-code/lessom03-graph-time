@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -179,4 +179,4 @@ st.info(
     "이곳에 세 번째 그래프를 통해 알 수 있는 내용을 "
     "한 문장으로 작성해 보세요."
 )
-```
+
